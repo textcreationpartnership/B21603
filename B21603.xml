@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Elegy on the death of the old East India Company who died of a wound she receiv'd from a patent, value two millions.</title>
+         </titleStmt>
+         <extent>Approx. 29KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21603</idno><idno type="EEBO-CITATION">11229748</idno>
+  <idno type="VID">204917</idno>
+  <idno type="EEBO-PROQUEST">2248496752</idno>
+  
+            <idno type="STC">Wing E399</idno>
+            <idno type="OCLC">11229748</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21603)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204917)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1440:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Elegy on the death of the old East India Company who died of a wound she receiv'd from a patent, value two millions.</title>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>For the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">East India Company --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204917:1"/>
+            <pb facs="tcp:204917:1"/>
+            <p>AN ELEGY ON THE DEATH OF THE <hi>Old East-India Company.</hi> Who Died of a Wound she receiv'd from a <hi>PA<g ref="char:EOLhyphen"/>TENT,</hi> value <hi>Two Millions.</hi>
+            </p>
+            <figure>
+               <figDesc>crowned blazon or coat of arms of the British royal family, flanked by a crowned lion and unicorn</figDesc>
+               <head>
+                  <q>IE MAINTIENDRAY</q>
+               </head>
+               <p>W. R.</p>
+               <p>HONI SOIT QVI MAL Y PENSE</p>
+            </figure>
+            <p>
+               <hi>LONDON:</hi> Printed for the Author in the Year 1699.</p>
+            <pb facs="tcp:204917:2"/>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:204917:2"/>
+            <head>The Preface.</head>
+            <p>AS the following Poem is likely to give offence to some Gentlemen who are concern'd in it, so they may make enquiry perhaps after the reasons which perswaded me to attempt it: for no person, who has an Ounce of Brains but will conclude from my <hi>Poetry,</hi> that I have subscrib'd <hi>no Thousands</hi> to the <hi>English</hi> Company, and will take it for granted that I should scarce traffick in <hi>Metre,</hi> had I wherewithal to trade in a more valuable <hi>Commodity.</hi> Therefore to make 'em something of amends for the displea<g ref="char:EOLhyphen"/>sure I may have created, I shall acquaint the Reader, that as I have no <hi>Interest</hi> in the Success of the New Company, but what every <hi>Englishman,</hi> who has a love for his Coun<g ref="char:EOLhyphen"/>try, should have, so I have no occasion to write out of <hi>En<g ref="char:EOLhyphen"/>vy</hi> to the Old, whose ill management has brought 'em to such a low condition as rather to deservemy <hi>Pity.</hi> The designs of some, and the practices of others, are Arguments sufficient to prevail with the Reader to excuse me in the <hi>Satyrical</hi> Part; and I have no bodies pardon to ask for my defaults in the <hi>Pangyrical,</hi> but those Gentlemen's whose <hi>Charact<g ref="char:EOLhyphen"/>ers</hi> I have fail'd in. To give being to an establishment which was thought impracticable by the mighty opposition which was made against it, to raise Two Millions almost in Two Days, after along and expensive War; to give so large an assistance to the <hi>Prince</hi> without burthening the <hi>Subject,</hi> are Actions deserving the utmost acknowledgments of the present Age, as they will engross the Wonder of those which are to come; and I should have dwell'd longer on so agreea<g ref="char:EOLhyphen"/>ble a Subject, and made more particular mention of the seve<g ref="char:EOLhyphen"/>ral Patriots concern'd in it, had I not been confin'd within certain Limits, and assur'd it would be as well taken without. I could have almost wish'd I had said nothing in particular of the two Gentlemen whose Names I have made boldwith, having since heard of their Aversion to things of that na<g ref="char:EOLhyphen"/>ture.
+<pb facs="tcp:204917:3"/> To do good I am given to understand is their particular qualification, without being willing to be told of it, and their Vertues are communicative enough of themselves, without theintermediate conveyance of <hi>a Muse;</hi> but they must ex<g ref="char:EOLhyphen"/>cuse me if I <hi>propose</hi> that to the <hi>Veneration</hi> of others, which I <hi>pay</hi> the <hi>greatest deference</hi> to, my self, and shew what the <hi>Force</hi> of such uncommon Excellencies is, when I cannot <hi>forbear the recital</hi> of 'em, tho I am forewarn'd it will be <hi>displeasing</hi> to them. The <hi>Characters I</hi> have injur'd <hi>Them</hi> in, may give the <hi>Reader</hi> an insight into the <hi>Vertues</hi> of the rest of the <hi>Honourable Directors,</hi> who are <hi>Co-Partners</hi> with 'em in the <hi>same Undertaking;</hi> And one of the <hi>Reasons I</hi> had for making use of their Names, besides the many others, is because they were <hi>Candidates</hi> for <hi>Members of Parliament</hi> for this City; whose <hi>Majority</hi> I believe by this time will agree with me, that they would have had fewer <hi>Grievances</hi> to be redress'd, in relation to <hi>Trade,</hi> had these <hi>attain'd to that Dignity</hi> which they ought to have <hi>courted</hi> 'em to. But tho the <hi>Old Company</hi> has got the Advantage of the <hi>New,</hi> in hav<g ref="char:EOLhyphen"/>ing the <hi>Citizens</hi> make choice of <hi>their Members,</hi> yet the <hi>New</hi> has outwitted the <hi>Old</hi> in prevailing for the <hi>greatest Majo<g ref="char:EOLhyphen"/>rity;</hi> And the <hi>Leaden-hall Society</hi> would give the World occasion to think more favourably of their <hi>Intellects,</hi> if in<g ref="char:EOLhyphen"/>stead of <hi>Caballing</hi> against 'em, they would enter into a <hi>Joint Stock</hi> with'em, and prefer <hi>an amicable Agreement</hi> before <hi>Bills in Parliament,</hi> which so <hi>pitiful</hi> a diversion as a <hi>Tyger-Baiting,</hi> can render <hi>ineffectual.</hi> But I begin to take the busi<g ref="char:EOLhyphen"/>ness of a <hi>Politician</hi> upon me, when the Reader has reason to suspect <hi>I</hi> have employment enough on my hands to shew my self a <hi>Poet. I</hi> shall therefore let him loose to his Sentiments, and acquaint him, that tho the <hi>Conduct</hi> of the Poem may not please him, <hi>I</hi> have all the satisfaction imaginable as to the <hi>Subject</hi> which occasion'd it, and shall have no reason to find fault with the <hi>success</hi> of it, if it has but an <hi>Entertain<g ref="char:EOLhyphen"/>ment</hi> from <hi>their</hi> hands, whose diversion it's design'd for.</p>
+         </div>
+      </front>
+      <body>
+         <div type="mock_elegy">
+            <pb n="1" facs="tcp:204917:3"/>
+            <head>AN ELEGY ON THE DEATH OF THE <hi>Old East-India Company.</hi> Who died of a Wound she receiv'd from a <hi>PA<g ref="char:EOLhyphen"/>TENT,</hi> value <hi>Two Millions.</hi>
+            </head>
+            <lg>
+               <l>FAte has prevail'd, and cross'd 'em in their labours,</l>
+               <l>And <hi>Leaden-Hall</hi> must lose her <hi>Leaden Neighbours.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Their Gums, their Silks, their Muslins, &amp; their Spices</l>
+               <l>Cannot revoke what's owing to their Vices:</l>
+               <l>Nor the rich <hi>Tavistock</hi> with all her lading</l>
+               <l>Make up their Breaches, or support their Trading,</l>
+               <l>Which bends its head, and yeilding to declension</l>
+               <l>Defies their <hi>Advocates</hi> sublime invention,</l>
+               <l>To find out <hi>Ways</hi> to make Grim Death forbear 'em,</l>
+               <l>Tho skill'd in matters <hi>Legum Romanarum:</hi>
+               </l>
+               <l>Or from his dusky <hi>Codes</hi> and <hi>Digests,</hi> tell 'em</l>
+               <l>How to prevent the Mischiefs which befell 'em.</l>
+               <l>The <hi>Gown</hi> was ready, and the learn'd <hi>Civilian</hi>
+               </l>
+               <l>Thought of no lesser Gains than half a Million:</l>
+               <pb n="2" facs="tcp:204917:4"/>
+               <l>For sure, to teach a sooty thick-scull'd Prince,</l>
+               <l>And beat into his head both <hi>Law</hi> and <hi>Sense,</hi>
+               </l>
+               <l>Should make his <hi>Sun-burn'd Majesty</hi> be Grateful,</l>
+               <l>And fill his <hi>Pockets,</hi> who had fill'd his <hi>Pate</hi> full.</l>
+               <l>His <hi>Pension</hi> too was fix'd, and promise made him,</l>
+               <l>Whene're they had the mony, 't should be <hi>paid</hi> him;</l>
+               <l>VVhich made folks think (and reason good) he'd ne'r</l>
+               <l>Have <hi>English Coin</hi> for taking <hi>Indian Air.</hi>
+               </l>
+               <l>For I must ask, and crave the <hi>Doctor</hi>'s Mercy,</l>
+               <l>Tho he has made a very <hi>Witch</hi> of <hi>Circe,</hi>
+               </l>
+               <l>If I believe, and stand to my Position,</l>
+               <l>That his <hi>Sagacious</hi> VVorship's no <hi>Magician:</hi>
+               </l>
+               <l>Nor could he (tho I must his <hi>Knowledge</hi> own)</l>
+               <l>Make those to <hi>pay</hi> him mony who had <hi>none.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But lo! damn'd Fortune, worse than <hi>Nesmond's Shipping,</hi>
+               </l>
+               <l>VVho often times had set 'em all a <hi>weeping,</hi>
+               </l>
+               <l>And made wise <hi>Governour,</hi> and learn'd Directors,</l>
+               <l>Curse Adm'ralty for being such Neglecters,</l>
+               <l>To let that bold, ungracious, <hi>Popish</hi> Marquiss,</l>
+               <l>Not only <hi>gut</hi> their <hi>Ships,</hi> but take their <hi>Carkass:</hi>
+               </l>
+               <l>She, she, I say, a most perfidious Trull,</l>
+               <l>Unwilling that <hi>Mahometan Mogul</hi>
+               </l>
+               <l>Should have a <hi>Lawyer</hi> for his <hi>Tutor,</hi> brought</l>
+               <l>Things so about, that matters came to nought;</l>
+               <l>And the <hi>fine Robe</hi> which he was to appear in,</l>
+               <l>To make his <hi>learned Speech,</hi> and get a <hi>Hearing,</hi>
+               </l>
+               <l>Was laid aside, to let this <hi>Truth</hi> be known,</l>
+               <l>That tho he did <hi>not go,</hi> he <hi>would have gone.</hi>
+               </l>
+               <l>Tho most imagine the next <hi>Sale</hi> will tell</l>
+               <l>(If e're they should have <hi>Goods</hi> again to sell)</l>
+               <l>How it <hi>went off:</hi> for should they give their Votes</l>
+               <l>To keep the <hi>Gown,</hi> they e'en must sell their <hi>Coats.</hi>
+               </l>
+            </lg>
+            <pb n="3" facs="tcp:204917:4"/>
+            <lg>
+               <l>But Muse, take heed of <hi>Scandal,</hi> and forbear;</l>
+               <l>Some of these men have <hi>slept</hi> within the <hi>Chair;</hi>
+               </l>
+               <l>Have <hi>cough'd</hi> in <hi>Fur,</hi> and have on <hi>Custards</hi> fed,</l>
+               <l>VVhen thou, perhaps, hast made a <hi>Meal</hi> of Bread;</l>
+               <l>Their Chiefs are <hi>Aldermen,</hi> their Rulers <hi>Knighted,</hi>
+               </l>
+               <l>And their swoln bags forbid 'em to be slighted.</l>
+               <l>Their <hi>Wives</hi> are <hi>modest,</hi> and their <hi>Daughters fair,</hi>
+               </l>
+               <l>Or thou at least must wisely say they are;</l>
+               <l>Their <hi>Husbands active,</hi> and their <hi>Fathers sound,</hi>
+               </l>
+               <l>If thou would'st have no <hi>Bill against thee found:</hi>
+               </l>
+               <l>For ev'n <hi>Sir Bartholomew's,</hi> nor <hi>Northey's</hi> VVit</l>
+               <l>Can save a <hi>Poet</hi> from an <hi>angry Cit.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Yet thou may'st sing what they <hi>have been,</hi> and <hi>dare</hi>
+               </l>
+               <l>Ev'n to disclose, and tell us what they <hi>are:</hi>
+               </l>
+               <l>How in their great <hi>Fore-fathers</hi> deeds they shine,</l>
+               <l>How in their <hi>Own</hi> they falter and decline:</l>
+               <l>As those <hi>gave birth</hi> to that which these <hi>destroy.</hi>
+               </l>
+               <l>And make that Trade our <hi>grief,</hi> which was their <hi>Joy.</hi>
+               </l>
+               <l>Oh! had these trod the Paths which <hi>those</hi> pursu'd,</l>
+               <l>Neglecting <hi>private</hi> Ends for <hi>publick</hi> Good,</l>
+               <l>
+                  <hi>Ganges</hi> had still her shining Treasures sent,</l>
+               <l>And <hi>Nile</hi> renew'd what by the <hi>Thames</hi> was spent!</l>
+               <l>But Prayers are fruitless, and Petitions vain,</l>
+               <l>VVhere <hi>Avarice,</hi> and <hi>want of Judgment</hi> Reign;</l>
+               <l>VVhere upright dealings yeild to base designs,</l>
+               <l>And <hi>Fraud</hi> with <hi>Ignorance</hi> consents and joyns;</l>
+               <l>
+                  <hi>Britannia</hi> sees her <hi>Thames</hi> his wealth reside</l>
+               <l>In <hi>Belgick</hi> Lands, and in the <hi>Texel</hi> ride,</l>
+               <l>As <hi>Her</hi> industrious Sons pursue their Toil,</l>
+               <l>And <hi>perfect</hi> that which <hi>Hers</hi> had learn'd to <hi>spoil.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Such wrongs as these, and such abuses, made</l>
+               <l>
+                  <hi>England</hi> almost unknown to <hi>England</hi>'s Trade,</l>
+               <pb n="4" facs="tcp:204917:5"/>
+               <l>And call'd for help, which few could give, but those</l>
+               <l>VVho caus'd her <hi>fall,</hi> and by her <hi>falling rose.</hi>
+               </l>
+               <l>Yet some there were (and sure <hi>Augusta</hi> must</l>
+               <l>Have some amongst her Sons both Rich and Just)</l>
+               <l>VVhose wealth, whose goodness, and vvhose vvisdom strove</l>
+               <l>To make their <hi>Deeds</hi> co-equal vvith their <hi>Love,</hi>
+               </l>
+               <l>And put in practice vvhat before vvas brought</l>
+               <l>To its <hi>full</hi> time, and <hi>labour'd</hi> in their thought.</l>
+               <l>VVith Grief they saw, and studied to reclaim</l>
+               <l>A <hi>Traffick</hi> which had almost lost its Name,</l>
+               <l>As it had thro its <hi>Rulers</hi> fingers run,</l>
+               <l>Sunk from <hi>Seven Hundred</hi> down to <hi>Forty One.</hi>
+               </l>
+               <l>But hovv could <hi>Art,</hi> or healing <hi>Med'cines</hi> give</l>
+               <l>Assistance to those Men who <hi>would not</hi> live?</l>
+               <l>Their <hi>blood</hi> was <hi>tainted,</hi> and th' infectious part</l>
+               <l>Had seiz'd their <hi>Vitals,</hi> and had storm'd their heart;</l>
+               <l>Yet deaf to Counsels, and in Fancy strong,</l>
+               <l>They fed themselves with hopes of living long,</l>
+               <l>Refus'd their proffers to dislodge the Guest</l>
+               <l>Which had enthron'd it self within their breast,</l>
+               <l>And hugg'd their pangs, unknowing of the Cheat,</l>
+               <l>Till <hi>Life</hi> had quitted its <hi>Imperial Seat.</hi>
+               </l>
+               <l>Thus the <hi>Consumptive Patient,</hi> tho he pines,</l>
+               <l>And in all Eyes but in his <hi>own</hi> declines,</l>
+               <l>Buoys up himself with <hi>Life,</hi> and will not hear,</l>
+               <l>That <hi>Death</hi> approaches, and his End is near.</l>
+               <l>In vain the learn'd Physician tells his state,</l>
+               <l>And warns him of the certainty of Fate:</l>
+               <l>He boasts of <hi>Strength,</hi> and <hi>flatters</hi> his Disease,</l>
+               <l>Which pulls <hi>unseen,</hi> and bends him by degrees,</l>
+               <l>Till Death comes on him, petulant and weak,</l>
+               <l>And <hi>snaps</hi> that thread he thought she could not <hi>break.</hi>
+               </l>
+            </lg>
+            <pb n="5" facs="tcp:204917:5"/>
+            <lg>
+               <l>But as the <hi>Deluge</hi> whose avengeful Rage</l>
+               <l>Nor Mountains stopp'd, nor Valleys could asswage,</l>
+               <l>Tho it advanc'd its Head o're Hills and Woods,</l>
+               <l>Which <hi>Man</hi> had climb'd for shelter from its floods,</l>
+               <l>Yet <hi>Man</hi> destroy'd, whose sinful Race had err'd,</l>
+               <l>Heav'n bad the Waves withdraw, and <hi>EARTH</hi> was spar'd,</l>
+               <l>To be re-peopled, and with Natives fill'd,</l>
+               <l>Who what they <hi>sinn'd upon,</hi> manur'd and till'd.</l>
+               <l>So tho the <hi>Traders</hi> were deceas'd, the Trade</l>
+               <l>By which they fell, was not so much decay'd,</l>
+               <l>But skillful hands might raise her, and might give</l>
+               <l>Such help as midst her Ruins she might live.</l>
+            </lg>
+            <lg>
+               <l>This was the State in which the Wretch was left,</l>
+               <l>Of all things but the signs of Life bereft.</l>
+               <l>Stripp'd and divested on the Ground she laid,</l>
+               <l>Lost to her hopes, and to the Name of Trade;</l>
+               <l>When Heav'n, who Succour to th' afflicted sends,</l>
+               <l>And gives 'em various helps, for various Ends,</l>
+               <l>Rais'd her Deliv'rers, and Assistants gave,</l>
+               <l>VVho should <hi>advance</hi> what they were sent to <hi>save:</hi>
+               </l>
+               <l>The Rich Man's <hi>Treasure,</hi> and the wise Man's <hi>Sense</hi>
+               </l>
+               <l>United, and appear'd in Her Defence:</l>
+               <l>And what the <hi>City</hi> by her Sons had mov'd,</l>
+               <l>The <hi>Senate</hi> and consenting <hi>Court</hi> approv'd.</l>
+            </lg>
+            <lg>
+               <l>Bold were their Thoughts, and daring to surprize,</l>
+               <l>VVho first adventur'd in her Cause to rise,</l>
+               <l>VVho tempted Fate, and ev'ry hazard run,</l>
+               <l>To <hi>perfect</hi> what we could not think <hi>begun.</hi>
+               </l>
+               <l>Dangers they shew'd themselves, and threatning ills</l>
+               <l>VVithstood their Labours, and oppos'd their skills;</l>
+               <pb n="6" facs="tcp:204917:6"/>
+               <l>But what were ills or dangers to disswade</l>
+               <l>Minds resolute for Means to give her Aid?</l>
+               <l>They heard the pains the mournful wretch endur'd,</l>
+               <l>And <hi>wept,</hi> and <hi>came,</hi> and <hi>saw,</hi> and she was cur'd.</l>
+               <l>And now the Dame establish'd in her health,</l>
+               <l>Enjoy's her former Greatness, and her VVealth:</l>
+               <l>Strong are her Nerves, and wholsome is her Blood,</l>
+               <l>Which swells, and bears around the purple flood,</l>
+               <l>As strength returns to its deserted Post,</l>
+               <l>And fills that Seat again which it had lost.</l>
+               <l>Courted by <hi>Plenty</hi> see her Navies ride,</l>
+               <l>VVhilst Royal Fleets <hi>submit</hi> to be their Guide,</l>
+               <l>And <hi>Nereus</hi> gives attendance through the Main,</l>
+               <l>His Song foretelling their return and gain!</l>
+               <l>How <hi>pros'prous Gales</hi> shall drive 'em through the deep,</l>
+               <l>And <hi>Neptune</hi> save whom he was charg'd to keep.</l>
+               <l>How they shall India's harbours safely reach</l>
+               <l>And her astonish'd Sons shall croud the breach,</l>
+               <l>So see 'em land the Patriot on the Shore,</l>
+               <l>Sent to give Peace, and Friendship to restore,</l>
+               <l>VVhich Minds injurious to the Publick broke,</l>
+               <l>Disdaining conscience, and its Sacred Yoak.</l>
+               <l>How the fam'd Prince whose pow'rfull Scepter sways</l>
+               <l>Where e'er the Eastern Sun extends its <hi>Rays,</hi>
+               </l>
+               <l>Shall rise with joy and Run to his Embrace,</l>
+               <l>Reading his Master's Honours in his Face,</l>
+               <l>As <hi>He</hi> with fresh Endearments Treats his guest,</l>
+               <l>And makes the <hi>grant</hi> precede his just <hi>request,</hi>
+               </l>
+               <l>Preventing what he'll <hi>ask;</hi> by what he'll <hi>give,</hi>
+               </l>
+               <l>His Task too great, if only to <hi>receive.</hi>
+               </l>
+               <l>Indians and <hi>English</hi> both alike shall share</l>
+               <l>The Monarchs Favour, and employ his care,</l>
+               <l>And <hi>Brittain's</hi> wise Embassador obtain</l>
+               <l>Not only leave to <hi>Trade</hi> but almost <hi>reign.</hi>
+               </l>
+               <pb n="7" facs="tcp:204917:6"/>
+               <l> Commerce shall spread it self along the Coast,</l>
+               <l>And <hi>Norris</hi> shall regain what <hi>Child</hi> had lost.</l>
+               <l>These are the Truths the Tunefull God reveals,</l>
+               <l>And this the Man for whom he raptures feels.</l>
+               <l>Whose single worth might Challenge all our lays</l>
+               <l>And ever give employment to our Praise,</l>
+               <l>Should Numbers follow, or should verse pursue</l>
+               <l>The deeds which he has done and yet shall do.</l>
+               <l>But if he claims our wonder and esteem,</l>
+               <l>VVhat should they have who made his worth our Theme?</l>
+               <l>VVho sent him forth to be the Muse's care,</l>
+               <l>And to provoke her praise, and urge her Pray'r?</l>
+               <l>
+                  <hi>Shepherd,</hi> to Thee her earliest vows belong,</l>
+               <l>To Thee her tender'st wishes and her song,</l>
+               <l>Thy <hi>Wealth</hi> provided, and thy <hi>Counsels</hi> gave</l>
+               <l>
+                  <hi>Being</hi> to what his bus'ness is to <hi>save.</hi>
+               </l>
+               <l>Just were thy <hi>Thoughts</hi> and noble thy <hi>designs,</hi>
+               </l>
+               <l>Unfeign'd thy <hi>goodness</hi> as unfeign'd these <hi>lines,</hi>
+               </l>
+               <l>Thy Mind <hi>unerring,</hi> and thy judgment <hi>strong,</hi>
+               </l>
+               <l>Flowing thy <hi>Fortunes</hi> as thy flowing <hi>Tongue,</hi>
+               </l>
+               <l>Moving thy <hi>voice,</hi> and powerfull was thy <hi>pray'r,</hi>
+               </l>
+               <l>Deserving what it gain'd, a <hi>Senate's</hi> care,</l>
+               <l>VVhose upright votes secur'd the Nations ease,</l>
+               <l>And learn'd from Thee to <hi>give,</hi> and yet to <hi>please,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Ten years, for Peace, the conqu'ring <hi>Prince</hi> had fought,</l>
+               <l>And <hi>grasp'd</hi> at last the Laurels which he <hi>sought;</hi>
+               </l>
+               <l>Ten years, the <hi>Nation</hi>'s wealth and blood were spilt,</l>
+               <l>Attoning for her own and other's Guilt,</l>
+               <l>Though now her <hi>antient greatness</hi> she revives,</l>
+               <l>And gains <hi>immortal Honours</hi> for their <hi>Lives.</hi>
+               </l>
+               <l>The Prince had done what courage could inspire,</l>
+               <l>VVhat mightiest <hi>hands</hi> could act, or <hi>hearts</hi> desire,</l>
+               <pb n="8" facs="tcp:204917:7"/>
+               <l>VVhat Subjects could deserve, or Monarch shew,</l>
+               <l>VVhose Realms were <hi>faithfull</hi> as himself was <hi>true:</hi>
+               </l>
+               <l>The People they with Gifts incessant strove,</l>
+               <l>Unwearied in their <hi>bounty</hi> as their <hi>Love,</hi>
+               </l>
+               <l>Millions on Millions chearfully were paid,</l>
+               <l>To purchase and ensure their promis'd aid,</l>
+               <l>As their <hi>Obedience</hi> with <hi>His wants</hi> comply'd</l>
+               <l>And <hi>Duty</hi> gave what <hi>Poverty</hi> deny'd.</l>
+               <l>Yet more was wanting to our <hi>Peace</hi> restor'd,</l>
+               <l>The Fruits of what we <hi>gave,</hi> and of His <hi>Sword,</hi>
+               </l>
+               <l>To fix His <hi>labours,</hi> and our <hi>gifts</hi> compleat,</l>
+               <l>And make that <hi>Work</hi> as <hi>lasting,</hi> as 'twas <hi>great.</hi>
+               </l>
+               <l>What Method should they chuse, or Measures take?</l>
+               <l>
+                  <hi>One</hi> they must <hi>help,</hi> or <hi>t'other</hi> must <hi>forsake;</hi>
+               </l>
+               <l>Here, <hi>Gratitude</hi> prevail'd for dangers past,</l>
+               <l>There, <hi>Love</hi> perswaded not to give too fast;</l>
+               <l>As they divided in Opinion stood,</l>
+               <l>And weigh'd their <hi>Sov'raign's</hi> honour with their <hi>Coun<g ref="char:EOLhyphen"/>try's</hi> good.</l>
+               <l>When Thou stepst forth for Brittains ease prepar'd,</l>
+               <l>And speaking, wast <hi>receiv'd</hi> as soon as <hi>heard,</hi>
+               </l>
+               <l>VVhile listning <hi>Senates</hi> dwell'd upon Thy voice,</l>
+               <l>And bless'd thy <hi>Tongue,</hi> and made thy <hi>wish</hi> their <hi>choise,</hi>
+               </l>
+               <l>Which taught 'em wise instructions to receive,</l>
+               <l>And giving to <hi>enrich,</hi> and not to <hi>greive.</hi>
+               </l>
+               <l>Yet though thy <hi>deeds</hi> superior to the <hi>praise</hi>
+               </l>
+               <l>Which <hi>verse</hi> can give, or <hi>Admiration</hi> raise,</l>
+               <l>Might challenge <hi>Fame,</hi> and <hi>ev'ry Muse</hi> invite</l>
+               <l>To sing of what should <hi>ev'ry Muse</hi> delight,</l>
+               <l>
+                  <hi>Heat hoot</hi> has Merits which have right to claim</l>
+               <l>Honours as lasting as shall be thy Name;</l>
+               <l>Which stand <hi>enroll'd</hi> in vertue's list, and climb</l>
+               <l>
+                  <hi>Eternity,</hi> and dare the <hi>Teeth</hi> of Time.</l>
+               <pb n="9" facs="tcp:204917:7"/>
+               <l>And if a <hi>Mind</hi> above the common arts</l>
+               <l>To seek our <hi>praises,</hi> or to gain our <hi>hearts,</hi>
+               </l>
+               <l>If actions <hi>undisguis'd,</hi> and <hi>human</hi> thoughts</l>
+               <l>Almost without the stain of <hi>human</hi> faults,</l>
+               <l>If Godlike <hi>knowledg</hi> for the <hi>Wise</hi> may plead,</l>
+               <l>Or <hi>Modesty</hi> to Fame's accesses lead,</l>
+               <l>Ages shall cease to be, and Time shall wear</l>
+               <l>No marks of what we've been, and what we are;</l>
+               <l>
+                  <hi>Remembrance</hi> shall no more her leav's unfold,</l>
+               <l>And point us out the Great, the Good, and Bold,</l>
+               <l>When Truth like his immoveable and strong,</l>
+               <l>Shall urge no Muse and shall enforce no song,</l>
+               <l>VVhich down to times unborn his worth shall bear,</l>
+               <l>And make them <hi>practice,</hi> what the present <hi>share.</hi>
+               </l>
+               <l>Oh! Had these two their due regards obtain'd,</l>
+               <l>And vertue compass'd what she should have gain'd!</l>
+               <l>Then had <hi>Augusta's</hi> choise her Justice shewn,</l>
+               <l>And spoke <hi>their</hi> goodness, and reveal'd her <hi>Own.</hi>
+               </l>
+               <l>Her <hi>Sons</hi> had flourish'd, and her <hi>Daughter's</hi> cause</l>
+               <l>Had found <hi>relief,</hi> as they had found her Laws,</l>
+               <l>Useful to Both, accepted by the State,</l>
+               <l>As her wise Members <hi>spoke</hi> as well as <hi>sate.</hi>
+               </l>
+               <l>But why alas! Do I untimely greive,</l>
+               <l>And wish her bless'd, who <hi>blessings</hi> won't receive?</l>
+               <l>Vain are my hopes, though Provident my thoughts,</l>
+               <l>
+                  <hi>Augusta</hi> still vvill have <hi>Augusta's</hi> faults;</l>
+               <l>Faction will reign, and <hi>Loyalty</hi> subdue,</l>
+               <l>As <hi>false</hi> opinions side against the <hi>True,</hi>
+               </l>
+               <l>
+                  <hi>As Sects</hi> and <hi>Heats</hi> to <hi>Meekness</hi> vve prefer</l>
+               <l>And they are <hi>best esteem'd</hi> who <hi>most</hi> can <hi>err.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Forgive, Dread Muse, that I thy Rules transgress,</l>
+               <l>And almost <hi>curse</hi> a City which I'd <hi>bless,</hi>
+               </l>
+               <pb n="10" facs="tcp:204917:8"/>
+               <l>That I got loose from Paths appointed stray,</l>
+               <l>And own no Method, and no Laws obey,</l>
+               <l>As I from Duty, and my Subject led,</l>
+               <l>Reprove the <hi>living,</hi> who should blame the <hi>dead.</hi>
+               </l>
+               <l>Oh! bring me back by thy <hi>resistless Force,</hi>
+               </l>
+               <l>And stop my <hi>Progress,</hi> and divert my <hi>Course,</hi>
+               </l>
+               <l>As I pursuing <hi>Measures</hi> Thou hast taught,</l>
+               <l>Make what I <hi>like</hi> my Theme, not what I <hi>ought.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And lo! I to the Task thou Gav'st return,</l>
+               <l>And sing those <hi>dead</hi> whose <hi>Death</hi> I cannot <hi>mourn:</hi>
+               </l>
+               <l>Tho <hi>Great's their loss,</hi> yet <hi>little</hi> are our <hi>Fears,</hi>
+               </l>
+               <l>And They must take my <hi>Verse</hi> without my <hi>Tears.</hi>
+               </l>
+               <l>Yonder, behold, the sad Companions lie,</l>
+               <l>And—with <hi>his Inch of Candle</hi> by,</l>
+               <l>To light 'em thro the <hi>Mansions of the Dead,</hi>
+               </l>
+               <l>As <hi>dark</hi> as is their <hi>Ruler's</hi> Visage <hi>red,</hi>
+               </l>
+               <l>Whose <hi>well-fed Carcass,</hi> and whose <hi>bloated Jaws,</hi>
+               </l>
+               <l>Shew him not <hi>starv'd,</hi> altho he <hi>starv'd their Cause.</hi>
+               </l>
+               <l>Close by his side, beyond Description, lies</l>
+               <l>An Old <hi>Grey Fox</hi> as <hi>sinful as precise;</hi>
+               </l>
+               <l>Proud in <hi>his Heart,</hi> yet popular, and low,</l>
+               <l>The <hi>City's Friend,</hi> because the <hi>Courtier's Foe.</hi>
+               </l>
+               <l>
+                  <hi>Two Monarchs</hi> had th' audacious Wretch oppos'd,</l>
+               <l>And feign'd <hi>Religion,</hi> and with <hi>Faction</hi> clos'd,</l>
+               <l>Prepar'd, and ready, with <hi>Sedition's Herd,</hi>
+               </l>
+               <l>To cast his Jealous Murmurs at a <hi>Third;</hi>
+               </l>
+               <l>Could <hi>Envy</hi> fasten, or could <hi>Malice</hi> feign</l>
+               <l>A <hi>Blemish</hi> in a Mind which knew no <hi>Stain.</hi>
+               </l>
+               <l>Tho the Good Prince for <hi>Europe</hi>'s Freedom born,</l>
+               <l>Redress'd what in <hi>pretence</hi> he seem'd to mourn;</l>
+               <l>Shelter'd from Justice his <hi>devoted Head,</hi>
+               </l>
+               <l>And brought him to a Land from which he <hi>fled.</hi>
+               </l>
+               <pb n="11" facs="tcp:204917:8"/>
+               <l>Else he in <hi>banishment</hi> had spent his time,</l>
+               <l>And liv'd a <hi>Sinner</hi> in a <hi>Sinful Clime.</hi>
+               </l>
+               <l>The rest are spread promiscuous on the Ground,</l>
+               <l>And the <hi>clapp'd Cit</hi> is levell'd with the <hi>Sound:</hi>
+               </l>
+               <l>All are alike without distinction laid,</l>
+               <l>And take possession of one common Bed.</l>
+            </lg>
+            <lg>
+               <l>Yet Means were offer'd, tho those Means were late,</l>
+               <l>To stop the Progress of approaching Fate;</l>
+               <l>And some would keep the Company from sinking</l>
+               <l>Ev'n at the charge and vast Expence of—thinking.</l>
+               <l>
+                  <hi>A Merchant</hi> came to hold her Drooping <hi>Head,</hi>
+               </l>
+               <l>And told her he had learn'd to write and read,</l>
+               <l>And could distinguish <hi>compound words</hi> from <hi>simple,</hi>
+               </l>
+               <l>Else might he never more <hi>encourage Pimple.</hi>
+               </l>
+               <l>
+                  <hi>Madam,</hi> said He, <hi>in this forlorn condition,</hi>
+               </l>
+               <l>
+                  <hi>What think's your Ladyship of</hi> Co-alition?</l>
+               <l>
+                  <hi>Tis a hard word, 'tis true, and without question</hi>
+               </l>
+               <l>
+                  <hi>Exceeding difficult for your digestion:</hi>
+               </l>
+               <l>
+                  <hi>But its Effects are good, and Vertues sure;</hi>
+               </l>
+               <l>
+                  <hi>Twill give you health, when nothing else can cure.</hi>
+               </l>
+               <l>The sick Society return'd and cry'd,</l>
+               <l>
+                  <hi>The Med'cine's good; I'll have it strait apply'd.</hi>
+               </l>
+               <l>And things had soon put on another face,</l>
+               <l>If He had been <hi>sincere</hi> as He was <hi>base.</hi>
+               </l>
+               <l>Her COOPER came when call'd to <hi>stop her Leak,</hi>
+               </l>
+               <l>And vow'd he'd Dye next Sessions but he'd <hi>speak;</hi>
+               </l>
+               <l>Yes marry would He, 'twas a burning shame</l>
+               <l>Such Fops and Fools should tamper with his Dame.</l>
+               <l>
+                  <hi>My Son</hi> (said she) <hi>continue thy Repute;</hi>
+               </l>
+               <l>
+                  <hi>And if thou'dst keep the Name thou'st got, be Mute;</hi>
+               </l>
+               <l>
+                  <hi>Least thou be found to lessen in desert,</hi>
+               </l>
+               <l>
+                  <hi>And</hi> speaking, <hi>should'st be known for what thou art.</hi>
+               </l>
+               <pb n="12" facs="tcp:204917:9"/>
+               <l>Her <hi>Parson</hi> came, and in a fright besaught her</l>
+               <l>That she would please to Dye the <hi>Church's Daughter.</hi>
+               </l>
+               <l>And since his <hi>Reverence</hi> had grounds to fear</l>
+               <l>Her Conscience was not over-nice or clear,</l>
+               <l>He begg'd the liberty that he might say her</l>
+               <l>A side or two of wholesome <hi>Common-Prayer.</hi>
+               </l>
+               <l>And out he pull'd his Book, and fell a reading</l>
+               <l>Without her leave for any such Proceeding.</l>
+               <l>
+                  <hi>Vile Priest</hi> (said she) <hi>impertinently rude,</hi>
+               </l>
+               <l>
+                  <hi>Why am I thus amidst my pains pursu'd?</hi>
+               </l>
+               <l>
+                  <hi>Thy Prayers are useless, and thy Counsels vain;</hi>
+               </l>
+               <l>
+                  <hi>And nothing comes from thee but what's prophane.</hi>
+               </l>
+               <l>
+                  <hi>VVhilst deaf to Friendship, and Alliance blind,</hi>
+               </l>
+               <l>
+                  <hi>No Vows can move thee, and no ties can bind.</hi>
+               </l>
+               <l>
+                  <hi>As swoln with ease, and in Opinion great,</hi>
+               </l>
+               <l>
+                  <hi>Thou shew'st the</hi> Priest <hi>in nothing but his</hi> hate.</l>
+               <l>
+                  <hi>Go to thy</hi> Brother, <hi>further his Repose</hi>
+               </l>
+               <l>
+                  <hi>And cease to</hi> widen <hi>that which thou should'st</hi> close:</l>
+               <l>
+                  <hi>Then shall kind Heav'n prevail'd with to restore</hi>
+               </l>
+               <l>
+                  <hi>VVhat thou hast lost, give ear, and not before.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>More she had spoke, but falter'd as she try'd,</l>
+               <l>And turn'd, and struggled with her Pangs, and dy'd.</l>
+               <l>So Wizards when their time contracted's spent,</l>
+               <l>And their Commission's void which <hi>Hell</hi> had lent;</l>
+               <l>With ghastly looks amidst Convulsions fall,</l>
+               <l>Tho on their Gods for longer life they call.</l>
+               <l>Fate does its work, nor are the Charmers heard,</l>
+               <l>But Dye <hi>unpity'd,</hi> who were Living <hi>fear'd.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:204917:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
